@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/The--Avenger-s--Movie-/static/css/main.2e6a1a62.chunk.css",
+    "main.js": "/The--Avenger-s--Movie-/static/js/main.c664a90f.chunk.js",
+    "main.js.map": "/The--Avenger-s--Movie-/static/js/main.c664a90f.chunk.js.map",
+    "runtime-main.js": "/The--Avenger-s--Movie-/static/js/runtime-main.6dd1a66c.js",
+    "runtime-main.js.map": "/The--Avenger-s--Movie-/static/js/runtime-main.6dd1a66c.js.map",
+    "static/js/2.3eaa0cbf.chunk.js": "/The--Avenger-s--Movie-/static/js/2.3eaa0cbf.chunk.js",
+    "static/js/2.3eaa0cbf.chunk.js.map": "/The--Avenger-s--Movie-/static/js/2.3eaa0cbf.chunk.js.map",
+    "index.html": "/The--Avenger-s--Movie-/index.html",
+    "static/css/main.2e6a1a62.chunk.css.map": "/The--Avenger-s--Movie-/static/css/main.2e6a1a62.chunk.css.map",
+    "static/js/2.3eaa0cbf.chunk.js.LICENSE.txt": "/The--Avenger-s--Movie-/static/js/2.3eaa0cbf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6dd1a66c.js",
+    "static/js/2.3eaa0cbf.chunk.js",
+    "static/css/main.2e6a1a62.chunk.css",
+    "static/js/main.c664a90f.chunk.js"
+  ]
+}
